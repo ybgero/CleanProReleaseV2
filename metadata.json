@@ -1,0 +1,5 @@
+{
+  "name": "CleanSheet - Minimal Data Cleaning Utility",
+  "description": "A minimal web app for cleaning CSV, Excel, JSON, and YAML datasets with automated operations and version history.",
+  "requestFramePermissions": []
+}
